@@ -1,0 +1,2 @@
+module NewPrototypesHelper
+end
